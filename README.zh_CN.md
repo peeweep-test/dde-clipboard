@@ -14,7 +14,7 @@ dde-clipboard 是一个设计精美、简单的剪贴板管理组件。
 
 1. 确保已经安装了所有的编译依赖
 ```bash
-sudo apt build-dep dde-clipboard
+sudo apt build-dep dde-clipboard-v25
 ```
 
 2. 构建

@@ -14,7 +14,7 @@ You can also check the "Build-Depends" provided in the `debian/control` file.
 
 1. Make sure you have installed all dependencies.
 ```bash
-sudo apt build-dep dde-clipboard
+sudo apt build-dep dde-clipboard-v25
 ```
 
 2. Build

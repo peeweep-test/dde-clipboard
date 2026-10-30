@@ -1,3 +1,9 @@
+dde-clipboard-v25 (6.1.113) unstable; urgency=medium
+
+  * release: align G4 lock-step version to 6.1.113
+
+ -- Fangxun Zhao <zhaofangxun@uniontech.com>  Wed, 28 Oct 2026 18:14:25 +0800
+
 dde-clipboard (1:6.1.37) unstable; urgency=medium
 
   * i18n: Translate dde-clipboard.ts in mn (#287)
