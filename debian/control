@@ -1,4 +1,4 @@
-Source: dde-clipboard-v25
+Source: dde-clipboard
 Section: admin
 Priority: optional
 Maintainer: Deepin Sysdev <sysdev@deepin.com>
@@ -30,9 +30,8 @@ Build-Depends:
 Standards-Version: 4.6.2
 Homepage: https://github.com/linuxdeepin/dde-clipboard
 
-Package: dde-clipboard-v25
+Package: dde-clipboard
 Architecture: any
-Provides: dde-clipboard
 Depends:
  dde-api (>=2.92.1),
  dde-daemon (>=6.1.26),
@@ -40,10 +39,8 @@ Depends:
  ${misc:Depends},
  ${shlibs:Depends},
 Breaks:
- dde-clipboard,
  dde-shell (<< 1.99.3),
 Replaces:
- dde-clipboard,
  dde-shell (<< 1.99.3),
 Description: deepin desktop-environment - clipboard module
  Clipboard module of deepin desktop-environment
