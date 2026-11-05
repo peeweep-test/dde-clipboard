@@ -1,3 +1,9 @@
+dde-clipboard (1:6.1.116) unstable; urgency=medium
+
+  * Release 1:6.1.116
+
+ -- MyLeeJiEun <70250755+MyLeeJiEun@users.noreply.github.com>  Thu, 05 Nov 2026 14:23:08 +0800
+
 dde-clipboard (1:6.1.37) unstable; urgency=medium
 
   * i18n: Translate dde-clipboard.ts in mn (#287)
