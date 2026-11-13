@@ -1,3 +1,11 @@
+dde-clipboard-v25 (6.8.0) unstable; urgency=medium
+
+  * test: isolate epoch validation workflow events
+  * test: remove temporary epoch validation entry
+  * chore: Sync by
+
+ -- Zhao Fangxun <zhaofangxun@uniontech.com>  Fri, 13 Nov 2026 14:55:33 +0800
+
 dde-clipboard-v25 (6.1.113) unstable; urgency=medium
 
   * release: align G4 lock-step version to 6.1.113
